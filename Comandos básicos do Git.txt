@@ -1,0 +1,7 @@
+1 - git init para iniciar o git
+
+2 - git add . adiciona todos os arquivos criados para ser monitorado pelo git
+
+3 - git commit -m "descrição do que foi modificado"
+
+4 - git push -u origin main

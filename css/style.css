@@ -1,0 +1,27 @@
+h2 a {
+  text-decoration: none;
+  color: seagreen;
+}
+
+p {
+  font-size: 20px;
+}
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
+
+body {
+  font-family: arial;
+  background-image: url("/Imagem//Sala_de_Cinema/cinema.jpg");
+  background-size: 100%;
+}
+
+html {
+
+  text-align: center;
+}
